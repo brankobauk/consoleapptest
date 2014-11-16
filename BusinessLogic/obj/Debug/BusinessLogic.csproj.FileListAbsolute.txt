@@ -8,3 +8,12 @@ C:\Projects\IronWorkerTest\IronWorkerTest\BusinessLogic\bin\Debug\Interfaces.dll
 C:\Projects\IronWorkerTest\IronWorkerTest\BusinessLogic\bin\Debug\Interfaces.pdb
 C:\Projects\IronWorkerTest\IronWorkerTest\BusinessLogic\bin\Debug\Common.dll
 C:\Projects\IronWorkerTest\IronWorkerTest\BusinessLogic\bin\Debug\Common.pdb
+C:\Projects\IronWorkerTest\IronWorkerTest\BusinessLogic\bin\Debug\Common.Logging.dll
+C:\Projects\IronWorkerTest\IronWorkerTest\BusinessLogic\bin\Debug\IronSharp.Core.dll
+C:\Projects\IronWorkerTest\IronWorkerTest\BusinessLogic\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\IronWorkerTest\IronWorkerTest\BusinessLogic\bin\Debug\System.Net.Http.Formatting.dll
+C:\Projects\IronWorkerTest\IronWorkerTest\BusinessLogic\bin\Debug\Common.Logging.pdb
+C:\Projects\IronWorkerTest\IronWorkerTest\BusinessLogic\bin\Debug\Common.Logging.xml
+C:\Projects\IronWorkerTest\IronWorkerTest\BusinessLogic\bin\Debug\IronSharp.Core.pdb
+C:\Projects\IronWorkerTest\IronWorkerTest\BusinessLogic\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\IronWorkerTest\IronWorkerTest\BusinessLogic\bin\Debug\System.Net.Http.Formatting.xml

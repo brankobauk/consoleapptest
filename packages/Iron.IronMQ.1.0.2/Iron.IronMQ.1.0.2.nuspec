@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Iron.IronMQ</id>
+    <version>1.0.2</version>
+    <title>IronMQ</title>
+    <authors>Jeremy Bell</authors>
+    <owners>Jeremy Bell</owners>
+    <licenseUrl>https://raw.github.com/iron-io/iron_dotnet/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/iron-io/iron_dotnet</projectUrl>
+    <iconUrl>https://raw.github.com/iron-io/iron_dotnet/master/images/net-iron-mq.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>An easy-to-use highly available message queuing service. Built for distributed
+        cloud applications with critical messaging needs. Provides on-demand message
+        queuing with HTTPS transport, one-time FIFO delivery, message persistence,
+        and cloud-optimized performance.</description>
+    <releaseNotes>Added generate Webhook URI method, added TimeSpan overloads for time parameters</releaseNotes>
+    <tags>iron.io message queue</tags>
+    <dependencies>
+      <dependency id="Iron.IronCore" />
+      <dependency id="Newtonsoft.Json" />
+    </dependencies>
+  </metadata>
+</package>

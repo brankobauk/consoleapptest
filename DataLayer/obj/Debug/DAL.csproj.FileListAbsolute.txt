@@ -1,0 +1,6 @@
+C:\Projects\IronWorkerTest\IronWorkerTest\DataLayer\bin\Debug\DataLayer.dll.config
+C:\Projects\IronWorkerTest\IronWorkerTest\DataLayer\bin\Debug\DataLayer.dll
+C:\Projects\IronWorkerTest\IronWorkerTest\DataLayer\bin\Debug\DataLayer.pdb
+C:\Projects\IronWorkerTest\IronWorkerTest\DataLayer\bin\Debug\BLToolkit.4.dll
+C:\Projects\IronWorkerTest\IronWorkerTest\DataLayer\obj\Debug\DataLayer.dll
+C:\Projects\IronWorkerTest\IronWorkerTest\DataLayer\obj\Debug\DataLayer.pdb

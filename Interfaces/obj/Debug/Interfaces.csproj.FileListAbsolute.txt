@@ -1,0 +1,7 @@
+C:\Projects\IronWorkerTest\IronWorkerTest\Interfaces\bin\Debug\Interfaces.dll.config
+C:\Projects\IronWorkerTest\IronWorkerTest\Interfaces\bin\Debug\Interfaces.dll
+C:\Projects\IronWorkerTest\IronWorkerTest\Interfaces\bin\Debug\Interfaces.pdb
+C:\Projects\IronWorkerTest\IronWorkerTest\Interfaces\bin\Debug\BLToolkit.4.dll
+C:\Projects\IronWorkerTest\IronWorkerTest\Interfaces\obj\Debug\Interfaces.dll
+C:\Projects\IronWorkerTest\IronWorkerTest\Interfaces\obj\Debug\Interfaces.pdb
+C:\Projects\IronWorkerTest\IronWorkerTest\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
